@@ -1,4 +1,4 @@
-# Parallel-And-Distributed-Computing
+# Blockchain-Mining-Parallelization
 Blockchain technology is a distributed ledger system that enables secure and 
 decentralized transactions without the need for intermediaries. The security of 
 the blockchain network relies on the proof-of-work consensus algorithm, which 
